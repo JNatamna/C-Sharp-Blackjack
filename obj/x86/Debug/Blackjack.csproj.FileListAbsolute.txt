@@ -1,0 +1,7 @@
+G:\School\Software Design\Blackjack\obj\x86\Debug\Blackjack.csprojAssemblyReference.cache
+G:\School\Software Design\Blackjack\obj\x86\Debug\Blackjack.csproj.CoreCompileInputs.cache
+G:\School\Software Design\Blackjack\bin\Debug\ConsoleApplication.exe.config
+G:\School\Software Design\Blackjack\bin\Debug\ConsoleApplication.exe
+G:\School\Software Design\Blackjack\bin\Debug\ConsoleApplication.pdb
+G:\School\Software Design\Blackjack\obj\x86\Debug\ConsoleApplication.exe
+G:\School\Software Design\Blackjack\obj\x86\Debug\ConsoleApplication.pdb
